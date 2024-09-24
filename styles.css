@@ -1,0 +1,48 @@
+*{
+    background-color: slategrey;
+    font-family: "Poppins", sans-serif;
+}
+h1{
+    color:slategray;
+    text-align: center;
+    background-color:beige;
+    border-radius: 20px;
+    display:block;
+}
+h3{
+    text-align: center; 
+    color: beige;
+}
+li{
+    text-align: center;
+    list-style:none;
+    font-weight: 730;
+}
+a{
+    text-decoration: none;
+    color: black;
+    border-style:solid;
+    border-color: beige;
+}
+a:hover{
+    color:beige;
+    border-color: brown;
+}
+img{
+    border-style:dashed;
+    border-color: beige;
+    border-radius: 50px;
+    margin: 50px;
+}
+p{
+    font-style: italic;
+    margin: 30px;
+}
+button{
+    margin-left: 550px;
+}
+#butt{
+    color:beige;
+    border-color: black;
+}
+
